@@ -21,7 +21,7 @@ sites:
 
 status-website:
   cname: stacks-status.com
-  logoUrl: http://blockstack-www.imgix.net/stx-logo-padded.svg
+  logoUrl: https://blockstack-www.imgix.net/stx-logo-padded.svg
   name: Stacks Status
   introTitle: "A community run status checker for the Stacks ecosystem."
   introMessage: This is a simple status page for various properties in the Stacks ecosystem.
