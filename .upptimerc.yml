@@ -8,6 +8,16 @@ sites:
     url: https://explorer.stacks.co
   - name: Stacks node API (Mainnet)
     url: https://stacks-node-api.stacks.co
+  - name: Transactions endpoint (confirmed)
+    url: https://stacks-node-api.stacks.co/extended/v1/tx
+  - name: Transactions endpoint (mempool)
+    url: https://stacks-node-api.stacks.co/extended/v1/tx/mempool
+  - name: Blocks endpoint
+    url: https://stacks-node-api.stacks.co/extended/v1/block
+  - name: Hiro.so
+    url: https://hiro.so
+  - name: stacks.co
+    url: https://stacks.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -15,8 +25,8 @@ status-website:
   baseUrl: /stacks-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Stacks Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "A community run status checker for the Stacks ecosystem."
+  introMessage: This is a simple status page for various properties in the Stacks ecosystem.
   navbar:
     - title: Status
       href: /
