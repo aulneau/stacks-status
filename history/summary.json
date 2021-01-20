@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/explorer.stacks.co",
     "slug": "stacks-explorer",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 2621,
-    "timeDay": 653,
-    "timeWeek": 2621,
-    "timeMonth": 2621,
-    "timeYear": 2621,
-    "dailyMinutesDown": {
-      "2021-01-19": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2199,
+    "timeDay": 592,
+    "timeWeek": 2199,
+    "timeMonth": 2199,
+    "timeYear": 2199,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stacks node API (Mainnet)",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/stacks-node-api.stacks.co",
     "slug": "stacks-node-api-mainnet",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 305,
-    "timeDay": 283,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
-    "dailyMinutesDown": {
-      "2021-01-19": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 277,
+    "timeDay": 259,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Transactions endpoint (confirmed)",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/stacks-node-api.stacks.co",
     "slug": "transactions-endpoint-confirmed",
     "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 498,
     "timeDay": 498,
     "timeWeek": 498,
     "timeMonth": 498,
     "timeYear": 498,
-    "dailyMinutesDown": {
-      "2021-01-19": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Transactions endpoint (mempool)",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/stacks-node-api.stacks.co",
     "slug": "transactions-endpoint-mempool",
     "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
-    "time": 94,
-    "timeDay": 94,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
-    "dailyMinutesDown": {
-      "2021-01-19": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blocks endpoint",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/stacks-node-api.stacks.co",
     "slug": "blocks-endpoint",
     "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
-    "dailyMinutesDown": {
-      "2021-01-19": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hiro.so",
@@ -110,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 390,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "time": 399,
+    "timeDay": 399,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {}
   },
   {
@@ -128,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 365,
-    "timeWeek": 365,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "time": 359,
+    "timeDay": 359,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   }
 ]
