@@ -1,7 +1,7 @@
 url: https://stacks-node-api.stacks.co/extended/v1/tx/mempool
 status: up
 code: 200
-responseTime: 67
-lastUpdated: 2021-01-30T21:45:32.965Z
+responseTime: 23
+lastUpdated: 2021-01-30T22:22:58.160Z
 startTime: Tue Jan 19 2021 15:24:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
